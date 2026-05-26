@@ -18,13 +18,14 @@
 #nacos/nacos-server:v3.0.1
 
 # yonghaonan需要
-langgenius/dify-api:1.14.2
-langgenius/dify-web:1.14.2
-ubuntu/squid:latest
-busybox:latest
-semitechnologies/weaviate:1.27.0
-postgres:15-alpine
-langgenius/dify-plugin-daemon:0.6.1-local
-langgenius/dify-sandbox:0.2.15
-redis:6-alpine
-nginx:latest
+#langgenius/dify-api:1.14.2
+#langgenius/dify-web:1.14.2
+#ubuntu/squid:latest
+#busybox:latest
+#semitechnologies/weaviate:1.27.0
+#postgres:15-alpine
+#langgenius/dify-plugin-daemon:0.6.1-local
+#langgenius/dify-sandbox:0.2.15
+#redis:6-alpine
+#nginx:latest
+jmorganca/ollama:latest
