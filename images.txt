@@ -28,4 +28,4 @@
 #langgenius/dify-sandbox:0.2.15
 #redis:6-alpine
 #nginx:latest
-jmorganca/ollama:latest
+ollama:latest
