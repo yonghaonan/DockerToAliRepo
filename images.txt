@@ -15,6 +15,15 @@
 #neo4j:5.26.0-community-bullseye
 #mongo:4.4
 #docker.n8n.io/n8nio/n8n:latest
-nacos/nacos-server:v3.0.1
+#nacos/nacos-server:v3.0.1
 
-
+# yonghaonan需要
+langgenius/dify-api:1.14.2
+langgenius/dify-web:1.14.2
+ubuntu/squid:latest
+busybox:latest
+semitechnologies/weaviate:1.27.0
+postgres:15-alpine
+langgenius/dify-plugin-daemon:0.6.1-local
+redis:6-alpine
+nginx:latest
